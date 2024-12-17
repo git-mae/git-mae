@@ -8,7 +8,7 @@
   
   Oracle
   
-  [Oracle Cloud Infrastructure 2024 Certified Foundations Associate](https://objectstorage.us-phoenix-1.oraclecloud.com/p/c3pofC7CHkSqKCRIe7q91rfgM9hXgQQW-GN-CtR9tbzkW4HIN0H02OJ8xwoeHPO_/n/axdnydvy8b2d/b/BCKMLPHXDEV_IMAGES/o/img/PROD/Learning-Path_badge_default.png)
+  [Oracle Cloud Infrastructure 2024 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=BB3D533BADA80852F9EAAC0B9894F421F8A6664D16C939F38FC2CD40834E349E)
   
 - Skillsets: Programming Problem Solving Database Management Web Developing
 
