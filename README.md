@@ -1,4 +1,4 @@
-- Name: Arcellas, Rooochel Mae T.
+- Name: Arcellas, Rochel Mae T.
 - Education: Bachelor of Science in Information Technology (New Era University)
 - Certifications:
 
@@ -12,7 +12,7 @@
   
   [Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=44C3A05A94DC8E55A4D44558124837AF6142B69BD630A42D8A7AE77E71BB3952)
   
-- Skillsets: Programming Problem Solving Database Management Web Developing
+- Skillsets: HTML, SQL
 
 <!---
 git-mae/git-mae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
